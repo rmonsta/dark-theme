@@ -1,6 +1,6 @@
 :root {
     /* --green: #6dd86d; */
-    --white: #eee1e1;
+    --white: #f5f9fa;
     --black: #1f1e1e;
 }
 
@@ -12,7 +12,7 @@ body {
 
 .light-theme {
     color: #1f1e1e;
-    background: #eee1e1;   
+    background: #f5f9fa;   
 }
 
 .light-theme {
